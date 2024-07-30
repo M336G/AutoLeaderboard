@@ -1,0 +1,26 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "m336.autoleaderboard",
+	"name": "AutoLeaderboard",
+	"version": "v1.0.0",
+	"developers": [
+		"M336",
+		"Roxi"
+		],
+	"description": "Automatically update the level leaderboards so that you don't have to do it yourself",
+	"links": {
+		"community": "https://discord.gg/uproxide-s-little-land-1204580412299542608",
+		"source": "https://github.com/M336G/AutoLeaderboard"
+	},
+	"repository": "https://github.com/M336G/AutoLeaderboard",
+	"issues": {
+		"info": "Having a problem with the mod? Report the issue on GitHub",
+		"url": "https://github.com/M336G/AutoLeaderboard/issues"
+	}
+}
