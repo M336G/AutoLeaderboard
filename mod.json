@@ -22,5 +22,9 @@
 	"issues": {
 		"info": "Having a problem with the mod? Report the issue on GitHub",
 		"url": "https://github.com/M336G/AutoLeaderboard/issues"
-	}
+	},
+	"tags": [
+		"enhancement",
+		"utility"
+	]
 }
