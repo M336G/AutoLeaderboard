@@ -7,8 +7,8 @@
 	},
 	"id": "m336.autoleaderboard",
 	"name": "AutoLeaderboard",
-	"version": "v1.0.1",
-	"developers": ["M336", "Roxi"],
+	"version": "v1.2.0",
+	"developers": ["M336", "Roxi", "NinKaz"],
 	"description": "Automatically update the level leaderboards so that you don't have to do it yourself",
 	"links": {
 		"community": "https://discord.gg/uproxide-s-little-land-1204580412299542608",
